@@ -1,7 +1,7 @@
 #Updated March 2018
 #Isha Puri, ishapuri101@gmail.com
 
-#Terminal Command: python forDemo.py --shape-predictor shape_predictor_68_face_landmarks.dat --picamera 1
+#Terminal Command: python final_dyslexia_diagnostic_code.py --shape-predictor shape_predictor_68_face_landmarks.dat --picamera 1
 
 # import the necessary packages
 from imutils.video import VideoStream
